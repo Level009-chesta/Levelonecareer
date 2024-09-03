@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiring Solutions & Job Opportunities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #ff5722;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #ff5722;
+        }
+        .services, .contact {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #ff5722;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My Hiring Solutions & Job Opportunities Page</h1>
+</header>
+
+<div class="container">
+    <section class="services">
+        <h2>Our Services</h2>
+        <p>We specialize in providing comprehensive hiring solutions for corporations, ensuring they find the best talent to meet their needs. Whether you're looking for full-time, part-time, or contract employees, we have the expertise to assist you in building a strong team.</p>
+        <p>For individual applicants, we offer a wide range of job opportunities that match your skills and career goals. Our goal is to connect you with employers who value your expertise and help you achieve your professional aspirations.</p>
+    </section>
+
+    <section class="contact">
+        <h2>Get in Touch</h2>
+        <p>For more information about our services or to explore job opportunities, feel free to <a href="mailto:info@example.com">contact us</a>.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Your Name | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
